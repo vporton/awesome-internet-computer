@@ -393,6 +393,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 - [Formyfi](https://github.com/Talentum-id/formify) - Decentralized & fully on-chain Q&A Forms.
 - [Proton DApp](https://github.com/NeutronStarDAO/Proton) - A social DApp totally based on the Actor model.
+- [Zon](https://github.com/NeutronStarDAO/Proton) - A social DApp based on concept of items in folders, with good support for indie authors.
 
 ## DAO Frameworks
 
