@@ -220,6 +220,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [wasi2ic](https://github.com/wasm-forge/wasi2ic) - Convert WASI binaries into binaries runnable on the IC.
 - [setup-dfx](https://github.com/dfinity/setup-dfx) – GitHub Action to set up dfx
 - [ICP Support](https://marketplace.visualstudio.com/items?itemName=blockydevs.vscode-motoko-helper) - VS Code extension for deploying and interacting with canisters directly from within the editor.
+- [IC Pack](https://docs.package-manager.com) - Package manager for apps. It allows to create apps that nobody except of a sovereign user can remove or update, unlike SaaS that breaks all the time.
 
 ### Testing
 
